@@ -1,0 +1,76 @@
+edited image assets for sprites and BG - using space pirate ship because it seemed like a fun idea
+
+added alternate image for basig animation on ship
+
+added 'hit-images' so sprites change color when hit
+
+printed sprites
+
+added velocity/acc control framework
+
+added mouse to shoot from fixed point
+
+had idea for flame shot!
+
+added mouse to aim and shoot at cursor from ship
+
+adding collision detection and death mechanics
+
+made sure ship stays on screen - had to use width-9 and height-35
+
+adjusted wasd movement so ship is not too fast
+
+no drag because space
+
+gave enemies health
+
+enemies flash red when hit
+
+found pixel art and edited to make sprites
+
+gave enemies health bars
+
+collected more sprite images for enemy variety
+
+added more backgrounds for more levels
+
+added boss enemy
+
+added shooting patterns for different enemies
+
+added sounds
+
+added enemy movement
+
+added enemy drops
+
+randomised chance of drops on enemy death
+
+added suitable delays i.e, so that shield is not activated on start (same button) and ship can't be hit immediately on start
+
+added ship health bar
+
+added death on health = 0
+
+made highscores function and ending screen
+
+highlight current score if on scoreboard
+
+can reset from ending screen
+
+added sounds for intro, level up, game over and levels.
+
+Added triple shot
+
+Fixed bug of not being able to slow down when pushed away by enemy
+
+Fixed bug of being able to clip into enemy
+
+Added prompt to activate shield when available (if not already active)
+
+Changed durations of powerups for balance
+
+
+
+
+
