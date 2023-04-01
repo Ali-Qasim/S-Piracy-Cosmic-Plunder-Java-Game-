@@ -1,4 +1,4 @@
-# $${\color{yellow}_S-Piracy: Cosmic Plunder!_}$$
+$${\color{yellow}_S-Piracy: Cosmic Plunder!_}$$
 
 This is a Space Invaders inspired game I made in Java for a game programming assignment at university!
 
