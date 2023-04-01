@@ -1,10 +1,12 @@
-$${\color{yellow}_S-Piracy: Cosmic Plunder!_}$$
+# _S-Piracy: Cosmic Plunder!_
 
 This is a Space Invaders inspired game I made in Java for a game programming assignment at university!
 
 Play the game by running src/Game.java!
 
 <hr>
+
+## Gameplay!
 
 Start Screen and Instructions:
 
@@ -28,7 +30,19 @@ Level 3:
 
 <hr>
 
-<font size="4"> <span style= “color : red”> Enemies!</span></font>
++## Enemies!
+
+![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/alien1.gif)
+
+![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/red.gif)
+
+![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/yellow.gif)
+
+![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/blue.gif)
+
+![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/bigship.gif)
+
+
 
 
 
