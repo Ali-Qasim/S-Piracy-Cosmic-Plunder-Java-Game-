@@ -1,4 +1,4 @@
-# _S-Piracy: Cosmic Plunder!_
+# $${\color{yellow}_S-Piracy: Cosmic Plunder!_}$$
 
 This is a Space Invaders inspired game I made in Java for a game programming assignment at university!
 
@@ -28,7 +28,7 @@ Level 3:
 
 <hr>
 
-<font size="4"><span style= “color : red”>Enemies!</span></font>
+<font size="4"> <span style= “color : red”> Enemies!</span></font>
 
 
 
