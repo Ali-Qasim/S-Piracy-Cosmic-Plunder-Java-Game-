@@ -30,6 +30,14 @@ Level 3:
 
 <hr>
 
+## Player!
+
+![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/pship.gif)
+
+You are a space-pirate sailing the cosmos in search for plunder - a s'pirate, if you will!
+
+<hr>
+
 ## Enemies and Drops!
 
 Saucer:
@@ -79,11 +87,4 @@ Hunter:
 ![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/bigship.gif)
 
 Shoots 4 shots in a rotating pattern. Can move towards player! Drops TREASURE CHEST. ![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/images/chest.png)
-
-
-
-
-
-
-Read 'Assignment Report.pdf' for more details :D
 
