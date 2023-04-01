@@ -30,17 +30,55 @@ Level 3:
 
 <hr>
 
-+## Enemies!
+## Enemies and Drops!
+
+Saucer:
 
 ![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/alien1.gif)
 
+Shoots straight. Drops TRIPLE SHOT. ![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/images/coin.png)
+
+
+
+Rotor:
+
+![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/green.gif)
+
+Shoots in a constantly rotating pattern. Drops FLAME SHOT. ![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/images/flame.png)
+
+
+
+
+Shotgun:
+
 ![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/red.gif)
+
+Shoots a spread of 3 shots. Drops HEALTH. ![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/images/health.png)
+
+
+
+
+Tank:
 
 ![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/yellow.gif)
 
+Shoots straight, but has high health. Drops TRIPLE SHOT. ![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/images/coin.png)
+
+
+
+Tracker:
+
 ![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/blue.gif)
 
+Tracks and shoots towards player! Drops SHIELD. ![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/images/shield.png)
+
+
+
+Hunter:
+
 ![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/bigship.gif)
+
+Shoots 4 shots in a rotating pattern. Can move towards player! Drops TREASURE CHEST. ![image](https://github.com/Ali-Qasim/S-Piracy-Java-Game/blob/main/images/chest.png)
 
 
 
